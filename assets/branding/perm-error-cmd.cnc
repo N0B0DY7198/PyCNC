@@ -1,0 +1,1 @@
+[ERROR] You don't have [admin] perms!
