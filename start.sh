@@ -14,5 +14,7 @@ cat readme.txt
 echo Starting in 10 sec...
 sleep 10
 echo Any missing modules install them with 'pip3 install [module]'
+clear
 echo connect like this: IP: [server ip] PORT: Your choice TYPE: RAW
+sleep 4
 screen ./CNC
