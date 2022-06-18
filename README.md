@@ -8,6 +8,7 @@ PyCNC Is a extremely customizable cnc made in python it is closed source for now
 # WARNING
 If the screen terminates run ./CNC and check if you have python3-pip installed and run pip3 install <module here>
 Contact me if you need help setting it up
+# Image(s)
 ![Screenshot](image.png)
 
 # Coming soon
