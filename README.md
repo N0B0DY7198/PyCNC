@@ -21,5 +21,6 @@ sh start.sh
 - [ ] Discord webhook logs
 - [ ] Anti-Brute
 - [ ] IP Banning
+- [ ] Multi API Handler
 - [ ] Fading functions
 - Please add suggestions!
