@@ -9,10 +9,9 @@ PyCNC Is a extremely customizable cnc made in python it is closed source for now
 If the screen terminates run ./CNC and check if you have python3-pip installed and run pip3 install <module here>
 Contact me if you need help setting it up
 # How to use cnc (pref ubuntu 22):
-apt-get update; apt-get python3-pip; apt-get screen; pip3 install requests; pip3 install psutil; pip3 install pystyle; echo DONE; sh start.sh
+sh start.sh
 # Image(s)
 ![Screenshot](image.png)
-
 # Coming soon
 - [ ] Better command documentation/Custom command generator cli
 - [ ] Updater like system
