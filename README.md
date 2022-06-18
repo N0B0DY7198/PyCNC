@@ -19,4 +19,6 @@ sh start.sh
 - [ ] API Funneling options
 - [ ] Better plan/expiry system
 - [ ] Discord webhook logs
+- [ ] Anti-Brute
+- [ ] IP Banning
 - Please add suggestions!
