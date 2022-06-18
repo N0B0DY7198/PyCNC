@@ -9,6 +9,7 @@ PyCNC Is a extremely customizable cnc made in python it is closed source for now
 ![Screenshot](image.png)
 
 # Coming soon
+- [ ] Better command documentation/Custom command generator cli
 - [ ] Updater like system
 - [ ] Custom title
 - [ ] API Funneling options
