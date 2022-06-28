@@ -23,4 +23,5 @@ sh start.sh
 - [ ] IP Banning
 - [ ] Multi API Handler
 - [ ] Fading functions
+- [ ] Google Authenticator (2FA)
 - Please add suggestions!
