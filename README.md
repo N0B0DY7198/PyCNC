@@ -22,5 +22,6 @@ sh start.sh
 - [ ] Anti-Brute
 - [ ] IP Banning
 - [ ] Multi API Handler
+- [ ] Authenticator (2FA)
 - [ ] Fading functions
 - Please add suggestions!
