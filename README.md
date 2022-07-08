@@ -6,6 +6,7 @@ PyCNC Is a extremely customizable cnc made in python it is closed source for now
   - test: grabs the plan of the user sent (arg 1)
   - methods: Shows method list
 # WARNING
+# NEW CNC SOON
 If the screen terminates run ./CNC and check if you have python3-pip installed and run pip3 install <module here>
 Contact me if you need help setting it up
 # How to use cnc (pref ubuntu 22):
